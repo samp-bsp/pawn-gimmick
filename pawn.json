@@ -1,8 +1,8 @@
 {
 	"user": "samp-bsp",
 	"repo": "pawn-gimmick",
-	"entry": "GMK.pwn",
-	"output": "GMK.amx",
+	"entry": "test.pwn",
+	"output": "test.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib"
 	],
