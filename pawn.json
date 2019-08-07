@@ -1,0 +1,12 @@
+{
+	"user": "samp-bsp",
+	"repo": "pawn-gimmick",
+	"entry": "GMK.pwn",
+	"output": "GMK.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
